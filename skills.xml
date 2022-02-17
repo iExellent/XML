@@ -1,3 +1,30 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <skills>
-	<one></one>
+	<one>software testing theory</one>
+	<two>client-server architecture</two>
+	<three>HTTP server request methods</three>
+	<four>HTTP server response codes</four>
+	<five>structures of HTTP requests and responses</five>
+	<six>JSON and XML structure</six>
+	<seven>API testing with Postman</seven>
+	<eight>removing and reading logs from an external server</eight>
+	<nine>sniffing http web traffic with Charles and Fiddler</nine>
+	<ten>web browser DevTools</ten>
+	<eleven>VPN</eleven>
+	<twelve>mobile testing</twelve>
+	<thirteen>feature iOS, Android, guidelines</thirteen>
+	<fourteen>building iOS apps with Xcode</fourteen>
+	<fifteen>building Android applications with Android Studio</fifteen>
+	<sixteen>ADB</sixteen>
+	<seventeen>setting up proxy and vpn on iOS and Android</seventeen>
+	<eighteen>intercepting mobile traffic with Charles and Fiddler on iOS and Android</eighteen>
+	<nineteen>terminal Linux</nineteen>
+	<twenty>basic bash scripting, automation</twenty>
+	<twentyOne>access to remote servers</twentyOne>
+	<twentyTwo>SQL basics</twentyTwo>
+	<twentyThree>Postgres database</twentyThree>
+	<twentyFour>Redis non-relational database</twentyFour>
+	<twentyFive>load testing in Jmeter</twentyFive>
+	<twentySix>Scrum development methodology</twentySix>
+	<twentySeven>Python basics</twentySeven>
+</skills>
