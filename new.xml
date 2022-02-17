@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aboutme>
+	<fullname>Zakharov Kirill</fullname>
+	<age>27</age>
+	<pets>0</pest>
+	<children>
+		<name>Samuel</name>
+		<age>1</age>
+		<gender>male</gender>
+	</children>
+	<desired_salary>600$</desired_salary>
+</aboutme>
