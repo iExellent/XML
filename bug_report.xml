@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bugreport>
+  <Summary>Application crashes upon clicking the SAVE button while creating a new user</Summary>
+  <AreaPath>USERS menu -> New Users</AreaPath>
+  <BuildNumber>Version Number 3.2.5</BuildNumber>
+  <Severity>HIGH</Severity>
+  <Priority>HIGH</Priority>
+  <Reason>defect</Reason>
+  <Environment>Windows 11/SQL Server 2017</Environment>
+  <Discription>Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application</Discription>
+  <StepsToReproduce>   
+      <1>Login into the Application</1>
+      <2>Navigate to the Users Menu -> New User</2>
+      <3>Filled out all the user information fields</3>
+      <4>Clicked on the 'Save' button</4>
+      <5>Seen an error page 'ORA1090 Exception: Insert values Error'</5>
+      <6>See the attached logs for more information</6>
+      <7>Also see the attached screenshot of the error page</7>
+  </StepsToReproduce>
+  <Attachment>https://yadi.sk/i/3iBksjLj4ssW</Attachment>
+  <ActualResult>On clicking the SAVE button, application crash</ActualResult>
+  <ExpectedResult>On clicking the SAVE button, you should be prompted to a successful message 'New User has been created successfully'</ExpectedResult>
+</bugreport>
